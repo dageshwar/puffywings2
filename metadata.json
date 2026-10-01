@@ -1,0 +1,6 @@
+{
+  "name": "Puffy Wings",
+  "description": "A charming tap-to-fly obstacle arcade game with cute original bird physics, endless challenges, and high scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
